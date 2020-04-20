@@ -1,0 +1,65 @@
+# System Update Nag/Eshop lockout
+127.0.0.1 sun.hac.lp1.d4c.nintendo.net
+127.0.0.1 beach.hac.lp1.eshop.nintendo.net
+127.0.0.1 aauth-lp1.ndas.srv.nintendo.net
+
+# Nintendo Account
+127.0.0.1 accounts.nintendo.com
+
+# Add Friends API
+127.0.0.1 api.accounts.nintendo.com:443
+127.0.0.1 app-a04.lp1.npns.srv.nintendo.net
+127.0.0.1 app-a05.lp1.npns.srv.nintendo.net
+127.0.0.1 app-b04.lp1.npns.srv.nintendo.net
+
+# Game downloads?
+127.0.0.1 aqua.hac.lp1.d4c.nintendo.net
+127.0.0.1 atum.hac.lp1.d4c.nintendo.net
+127.0.0.1 atumn.hac.lp1.d4c.nintendo.net
+
+127.0.0.1 bcat-data-lp1.cdn.nintendo.net
+127.0.0.1 bcat-list-lp1.cdn.nintendo.net
+127.0.0.1 bcat-topics-lp1.cdn.nintendo.net
+127.0.0.1 broker.lp1.npns.srv.nintendo.net
+127.0.0.1 dauth-lp1.ndas.srv.nintendo.net
+
+# Friends list
+127.0.0.1 e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+127.0.0.1 ecs-lp1.hac.shop.nintendo.net
+
+# eShop
+127.0.0.1 pushmo.hac.lp1.eshop.nintendo.net
+127.0.0.1 consumer.lp1.npns.srv.nintendo.net
+127.0.0.1 bugyo.hac.lp1.eshop.nintendo.net
+127.0.0.1 receive-lp1.dg.srv.nintendo.net
+
+# added in 7.0.0. credit: Deuxgod
+127.0.0.1 app-b01.lp1.npns.srv.nintendo.net
+127.0.0.1 dragons.hac.lp1.dragons.nintendo.net
+127.0.0.1 scsi-policy-lp1.cdn.nintendo.net
+127.0.0.1 scsi-download.lp1.scsi.srv.nintendo.net
+
+# Error Reporting
+127.0.0.1 receive-lp1.er.srv.nintendo.net
+
+# Game updates server
+127.0.0.1 superfly.hac.lp1.d4c.nintendo.net
+127.0.0.1 tagaya.hac.lp1.eshop.nintendo.net
+127.0.0.1 
+# Facebook Image Posting
+127.0.0.1 web-lp1.share.srv.nintendo.net
+
+## Game Related:
+# Snake Pass
+127.0.0.1 snake.sumo-services.co.uk:443
+
+# Disgea 5
+127.0.0.1 g2785c501-lp1.s.n.srv.nintendo.net
+127.0.0.1 ngs-2785c5-live.s3.amazonaws.com
+
+# from itzxzac
+127.0.0.1 bcat-list-lp1.cdn.nintendo.net
+127.0.0.1 app-a03.lp1.npns.srv.nintendo.net
+
+# known to block wifi access
+# ctest.cdn.nintendo.net
